@@ -1,5 +1,5 @@
 {
-    "name": "hprose/hprose-swoole",
+    "name": "vanthink/hprose-swoole-fork",
     "type": "library",
     "description": "Hprose asynchronous client & standalone server based on swoole",
     "keywords": [
@@ -34,19 +34,19 @@
         "unix",
         "future"
     ],
-    "homepage": "http://hprose.com/",
+    "homepage": "http://vanthink.com/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ma Bingyao",
-            "email": "andot@hprose.com",
-            "homepage": "http://hprose.com",
+            "name": "vanthink",
+            "email": "lumineeatvanthink@163.com",
+            "homepage": "http://vanthink.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "hprose/hprose": ">=2.0.23",
+        "vanthink/hprose-php-fork": ">=2.0.23",
         "ext-swoole": ">=1.8.8",
         "ext-hprose": ">=1.6.5"
     },
