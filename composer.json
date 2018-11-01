@@ -46,7 +46,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "vanthink/hprose-php-fork": "dev-vanthink-master",
+        "vanthink/hprose-php-fork": ">2.0.35",
         "ext-swoole": ">=1.8.8",
         "ext-hprose": ">=1.6.5"
     },
